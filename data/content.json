@@ -1,0 +1,22 @@
+{
+  "siteName": "Endurance",
+  "tagline": "Building a better future together.",
+  "navigation": ["Home", "About", "Programs", "News", "Contact"],
+  "featured": [
+    {
+      "title": "Our Mission",
+      "description": "Discover our mission and the values that guide our work.",
+      "link": "#mission"
+    },
+    {
+      "title": "Our Programs",
+      "description": "Explore the programs and services we provide.",
+      "link": "#programs"
+    },
+    {
+      "title": "Get Involved",
+      "description": "Join us and make a difference in our community.",
+      "link": "#involved"
+    }
+  ]
+}

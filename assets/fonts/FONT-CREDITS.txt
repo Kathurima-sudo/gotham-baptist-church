@@ -1,0 +1,9 @@
+Montserrat
+Copyright 2011 The Montserrat Project Authors
+https://github.com/JulietaUla/Montserrat
+
+Noto Sans
+Copyright 2012 Google Inc.
+
+Both fonts are licensed under the SIL Open Font License, Version 1.1.
+See OFL-1.1.txt for the full licence.

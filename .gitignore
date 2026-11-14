@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+*.log
+index-before-*.html
+app-before-*.js
+backup-before-replica/
+index-before-slider.html
+endurance-original.zip
+original-theme/
+
+# Local development files - do not publish
+image-gallery.html
+get-demo-images.js
+style.css
+reference/
